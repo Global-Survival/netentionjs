@@ -14,3 +14,5 @@ users/*
 sys/*
 pouch__all_dbs__/*
 
+node.log
+web.start.js

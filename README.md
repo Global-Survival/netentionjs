@@ -1,12 +1,12 @@
 Netention (for Node.JS)
 =======================
 
-###[About](https://github.com/automenta/netjs/blob/master/doc/README.technical.md)
+###[About](doc/README.technical.md)
 
-###[Features](https://github.com/automenta/netjs/blob/master/doc/README.features.md)
+###[Features](doc/README.features.md)
 
-###[Setup](https://github.com/automenta/netjs/blob/master/doc/INSTALL.md)
+###[Setup](doc/INSTALL.md)
 
-###[Development](https://github.com/automenta/netjs/blob/master/doc/README.dev.md)
+###[Development](doc/README.dev.md)
 
-###[License](https://github.com/automenta/netjs/blob/master/LICENSE)
+###[License](LICENSE)

@@ -31,6 +31,7 @@
     "jsdom": "",
     "jsonpack": "",
     "levelup": "",
+    "leveldown": "",
     "level-queryengine":"", 
     "jsonquery-engine":"",
     "lockit": "",
